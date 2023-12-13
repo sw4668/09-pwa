@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    margin: 0; /* Add this to remove default margin */
+    background: url('images/stars.gif') no-repeat center center fixed; 
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.container {
+    margin: auto;
+    width: 80%;
+}
+
+.container h1 {
+    color: yellow;
+}
+
+.container h2 {
+    color: yellow;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#imageContainer {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
