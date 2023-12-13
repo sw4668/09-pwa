@@ -2,9 +2,9 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 20px;
-    margin: 0; /* Add this to remove default margin */
+    margin: 0;
     background: url('images/stars.gif') no-repeat center center fixed; 
-    background-size: cover; /* Resize the background image to cover the entire container */
+    background-size: cover; /* Resize the background image */
 }
 
 .container {
